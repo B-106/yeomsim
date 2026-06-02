@@ -1,1 +1,1 @@
-Infection Simulatior Source Code
+Infection Simulator Source Code
